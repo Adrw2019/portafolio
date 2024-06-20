@@ -10933,10 +10933,6 @@ textarea.form-control-lg {
   width: 60%;
   height: 80vh;
 }
-#grafica2{
-  width: 60%;
-  height: 80vh;
-}
 @media (min-width: 1200px) {
   .fs-1 {
     font-size: 2.5rem !important;
